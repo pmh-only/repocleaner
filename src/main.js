@@ -90,7 +90,7 @@ _asyncToGenerator( /*#__PURE__*/regeneratorRuntime.mark(function _callee2() {
 
         case 14:
           consoleElem.innerText += '> github oauth code found\n> request github oauth token. please wait...\n';
-          window.history.replaceState({}, document.title, '/index.html');
+          window.history.replaceState({}, document.title, '/repocleaner/index.html');
           _context2.next = 18;
           return window.fetch('https://cors.pmhonly.workers.dev/?https://github.com/login/oauth/access_token?client_id=2a58b27c5db4b250935b&client_secret=e049f2d2f81cb81412459ecf6ad1a43c9d5969ec&code=' + code, {
             method: 'POST',
