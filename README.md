@@ -5,6 +5,6 @@
 # RepoCleaner
 bulk archive old repositories
 
-pmh-only.github.io/RepoCleaner/index.html
+https://pmh-only.github.io/repocleaner/index.html
 
 </div>
